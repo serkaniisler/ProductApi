@@ -32,7 +32,7 @@ Katmanlı mimari (N-Tier Architecture) kullanılmıştır:
 - ✅ Repository Pattern
 - ✅ Dependency Injection
 
-### Token ile İstek At
+
 Authorization: Bearer {token}
 ## 🔐 Kullanım
 
