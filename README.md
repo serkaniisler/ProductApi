@@ -32,11 +32,6 @@ Katmanlı mimari (N-Tier Architecture) kullanılmıştır:
 - ✅ Repository Pattern
 - ✅ Dependency Injection
 
-POST /api/Auth/register
-
-### Giriş Yap
-POST /api/Auth/login
-
 ### Token ile İstek At
 Authorization: Bearer {token}
 ## 🔐 Kullanım
